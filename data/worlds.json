@@ -1,0 +1,317 @@
+[
+    {
+        "id": "world-1779893401130-wj2k9a",
+        "name": "Oakhaven",
+        "genre": "Fantasy",
+        "tone": "Whimsical and light",
+        "description": "A realm where magic bubbles beneath the surface of a lush green world.",
+        "cities": [
+            {
+                "id": "city-1779893401130-wj2k9a-0",
+                "name": "Highgrove",
+                "region": "Elven Woodlands",
+                "type": "capital",
+                "population": 450000,
+                "description": "The seat of the royal council, surrounded by ancient trees."
+            },
+            {
+                "id": "city-1779893401130-wj2k9a-1",
+                "name": "Sailport",
+                "region": "Eastern Coast",
+                "type": "port",
+                "population": 280000,
+                "description": "A bustling hub for trade between the isles."
+            },
+            {
+                "id": "city-1779893401130-wj2k9a-2",
+                "name": "Ironridge",
+                "region": "Western Peaks",
+                "type": "mountain",
+                "population": 95000,
+                "description": "A fortified settlement built into the granite cliffs."
+            },
+            {
+                "id": "city-1779893401130-wj2k9a-3",
+                "name": "Whispering Grove",
+                "region": "Deepwood",
+                "type": "forest",
+                "population": 65000,
+                "description": "Home to druids and magical scholars."
+            },
+            {
+                "id": "city-1779893401130-wj2k9a-4",
+                "name": "Sunset Harbor",
+                "region": "Coastal Provinces",
+                "type": "coastal",
+                "population": 320000,
+                "description": "Famous for its vibrant markets and pirate legends."
+            }
+        ],
+        "factions": [
+            {
+                "id": "faction-world-1779893401130-wj2k9a-0",
+                "name": "The Order of the Silver Quill",
+                "alignment": "good",
+                "motto": "Pen and sword protect us all",
+                "colors": [
+                    "#C0C0C0",
+                    "#FFFFFF"
+                ],
+                "description": "Scholars and soldiers united to preserve knowledge."
+            },
+            {
+                "id": "faction-world-1779893401130-wj2k9a-1",
+                "name": "The Shadow Syndicate",
+                "alignment": "evil",
+                "motto": "Power is the only truth",
+                "colors": [
+                    "#8B0000",
+                    "#000000"
+                ],
+                "description": "Underground traders dealing in forbidden artifacts."
+            },
+            {
+                "id": "faction-world-1779893401130-wj2k9a-2",
+                "name": "The Druidic Circle",
+                "alignment": "neutral",
+                "motto": "Balance must be kept",
+                "colors": [
+                    "#228B22",
+                    "#8FBC8F"
+                ],
+                "description": "Guardians of the ancient forests and ley lines."
+            },
+            {
+                "id": "faction-world-1779893401130-wj2k9a-3",
+                "name": "The Crimson Knights",
+                "alignment": "lawful",
+                "motto": "Duty calls forever",
+                "colors": [
+                    "#DC143C",
+                    "#FFFFFF"
+                ],
+                "description": "Elite cavalry sworn to the crown's absolute rule."
+            },
+            {
+                "id": "faction-world-1779893401130-wj2k9a-4",
+                "name": "The Void Walkers",
+                "alignment": "chaotic",
+                "motto": "Freedom from order and chaos",
+                "colors": [
+                    "#4B0082",
+                    "#FFF700"
+                ],
+                "description": "Nomadic adventurers seeking the next great magic surge."
+            }
+        ]
+    },
+    {
+        "id": "world-1779893401130-x8n2p1",
+        "name": "Synthetia Prime",
+        "genre": "Sci-fi",
+        "tone": "Dark and gritty",
+        "description": "A megacorporation-controlled orbital station network orbiting a dying gas giant.",
+        "cities": [
+            {
+                "id": "city-1779893401130-x8n2p1-0",
+                "name": "OmniSpire",
+                "region": "Core Zone",
+                "type": "capital",
+                "population": 1500000,
+                "description": "The central hub of corporate governance and AI monitoring."
+            },
+            {
+                "id": "city-1779893401130-x8n2p1-1",
+                "name": "Port 9",
+                "region": "Outer Rims",
+                "type": "port",
+                "population": 850000,
+                "description": "The primary arrival point for illegal refugees and smugglers."
+            },
+            {
+                "id": "city-1779893401130-x8n2p1-2",
+                "name": "Neon Dust",
+                "region": "Deserted Sector",
+                "type": "desert",
+                "population": 120000,
+                "description": "A settlement built inside a hollowed asteroid."
+            },
+            {
+                "id": "city-1779893401130-x8n2p1-3",
+                "name": "Zero Point",
+                "region": "Orbital Ring",
+                "type": "floating",
+                "population": 650000,
+                "description": "Station suspended above the atmosphere for energy collection."
+            },
+            {
+                "id": "city-1779893401130-x8n2p1-4",
+                "name": "Sublevel 0",
+                "region": "Deep Core",
+                "type": "underground",
+                "population": 45000,
+                "description": "The hidden maintenance levels beneath the main deck."
+            }
+        ],
+        "factions": [
+            {
+                "id": "faction-world-1779893401130-x8n2p1-0",
+                "name": "The Corporate Directorate",
+                "alignment": "lawful",
+                "motto": "Order through control",
+                "colors": [
+                    "#FFFF00",
+                    "#000000"
+                ],
+                "description": "The ruling AI and executive management structure."
+            },
+            {
+                "id": "faction-world-1779893401130-x8n2p1-1",
+                "name": "The Rust Brotherhood",
+                "alignment": "evil",
+                "motto": "Survival is the only law",
+                "colors": [
+                    "#FFA500",
+                    "#8B0000"
+                ],
+                "description": "Rebel workers sabotaging machinery for resources."
+            },
+            {
+                "id": "faction-world-1779893401130-x8n2p1-2",
+                "name": "Neo-Gnostics",
+                "alignment": "chaotic",
+                "motto": "Truth lies in the void",
+                "colors": [
+                    "#7FFF00",
+                    "#00008B"
+                ],
+                "description": "Hacker cultists uploading their consciousness to the mainframe."
+            },
+            {
+                "id": "faction-world-1779893401130-x8n2p1-3",
+                "name": "The Shielders",
+                "alignment": "good",
+                "motto": "Protect the people at all costs",
+                "colors": [
+                    "#00FFFF",
+                    "#006400"
+                ],
+                "description": "Unofficial security force guarding against corporate overreach."
+            }
+        ]
+    },
+    {
+        "id": "world-1779893401130-q3m5r7",
+        "name": "Ashen Earth",
+        "genre": "Post-apocalyptic",
+        "tone": "Mysterious and eerie",
+        "description": "A world where the sun rose red after a global cataclysm.",
+        "cities": [
+            {
+                "id": "city-1779893401130-q3m5r7-0",
+                "name": "Dustfall Haven",
+                "region": "Eastern Wasteland",
+                "type": "capital",
+                "population": 25000,
+                "description": "The last functioning settlement with clean water filtration."
+            },
+            {
+                "id": "city-1779893401130-q3m5r7-1",
+                "name": "Salt Flats Station",
+                "region": "Coastal Regions",
+                "type": "port",
+                "population": 12000,
+                "description": "A small outpost where scavengers trade mutated goods."
+            },
+            {
+                "id": "city-1779893401130-q3m5r7-2",
+                "name": "Glass Wastes",
+                "region": "Desert Core",
+                "type": "desert",
+                "population": 8000,
+                "description": "Built on a field of ancient shattered solar panels."
+            },
+            {
+                "id": "city-1779893401130-q3m5r7-3",
+                "name": "Bunker Alpha",
+                "region": "Northern Underground",
+                "type": "underground",
+                "population": 2000,
+                "description": "A deep earth facility housing a nuclear research lab."
+            },
+            {
+                "id": "city-1779893401130-q3m5r7-4",
+                "name": "Iron Peak Outpost",
+                "region": "Mountain Range",
+                "type": "mountain",
+                "population": 15000,
+                "description": "A fortified city carved into a dormant volcano."
+            },
+            {
+                "id": "city-1779893401130-q3m5r7-5",
+                "name": "Sky Drift",
+                "region": "Atmospheric Zones",
+                "type": "floating",
+                "population": 3000,
+                "description": "A drone-based settlement floating in the toxic upper atmosphere."
+            }
+        ],
+        "factions": [
+            {
+                "id": "faction-world-1779893401130-q3m5r7-0",
+                "name": "The Purifiers",
+                "alignment": "good",
+                "motto": "Clean the slate together",
+                "colors": [
+                    "#00FF00",
+                    "#006400"
+                ],
+                "description": "Scientists and scavengers trying to restore air quality."
+            },
+            {
+                "id": "faction-world-1779893401130-q3m5r7-1",
+                "name": "The Ash Walkers",
+                "alignment": "neutral",
+                "motto": "We are what survives",
+                "colors": [
+                    "#696969",
+                    "#8B0000"
+                ],
+                "description": "Nomads trading in salvage and mutant beasts."
+            },
+            {
+                "id": "faction-world-1779893401130-q3m5r7-2",
+                "name": "The Rust Lords",
+                "alignment": "evil",
+                "motto": "Scorched earth is victory",
+                "colors": [
+                    "#FF4500",
+                    "#333333"
+                ],
+                "description": "Warlords controlling the remaining water pumps."
+            },
+            {
+                "id": "faction-world-1779893401130-q3m5r7-3",
+                "name": "The Void Seekers",
+                "alignment": "chaotic",
+                "motto": "To the edge and beyond",
+                "colors": [
+                    "#000000",
+                    "#FFA500"
+                ],
+                "description": "Explorers venturing into the radioactive zones."
+            },
+            {
+                "id": "faction-world-1779893401130-q3m5r7-4",
+                "name": "The Foundry Guard",
+                "alignment": "lawful",
+                "motto": "Metal binds us",
+                "colors": [
+                    "#C0C0C0",
+                    "#8B0000"
+                ],
+                "description": "Heavy armor militia protecting the industrial zone."
+            }
+        ]
+    }
+]
